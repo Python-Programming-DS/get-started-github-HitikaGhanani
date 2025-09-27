@@ -1,0 +1,1 @@
+I’m passionate about computer science and data science, currently working on machine learning projects and exploring ways to make models more efficient and impactful. I love learning new technologies, building useful applications, and solving real-world problems. In my free time, I enjoy designing, exploring creative tools, and working on side projects.
